@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.5143369
+  lightness: 0.05913978
+  brandStrength: 1
+  brandColors:
+    - '#170E0E'
+    - '#765330'
+    - '#878877'
+    - '#D7F2FB'
+    - '#D7426E'
+  rhythmicContrast: 1
+typography_spectrum: 0
+name: The OX trails
